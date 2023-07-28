@@ -26,7 +26,8 @@ namespace DeliverySystem
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
                       "~/Content/site.css",
-                      "~/Content/CustomStyle.css"));
+                      "~/Content/CustomStyle.css",
+                     "~/Content/font-awsome.css"));
         }
     }
 }
